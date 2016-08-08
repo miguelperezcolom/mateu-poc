@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mateu-poc.iml" filepath="$PROJECT_DIR$/mateu-poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openui5/openui5.iml" filepath="$PROJECT_DIR$/openui5/openui5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactjs/reactjs.iml" filepath="$PROJECT_DIR$/reactjs/reactjs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vaadin/vaadin.iml" filepath="$PROJECT_DIR$/vaadin/vaadin.iml" />
     </modules>
   </component>
 </project>

@@ -22,11 +22,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="mateu-poc" />
+        <module name="openui5" />
+        <module name="reactjs" />
+        <module name="vaadin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mateu-poc" target="1.5" />
+      <module name="openui5" target="1.5" />
+      <module name="reactjs" target="1.5" />
+      <module name="vaadin" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
