@@ -12,6 +12,8 @@
         <module>vaadin</module>
         <module>angularjs</module>
         <module>reactjs</module>
+        <module>vaadin1</module>
+        <module>polymer</module>
     </modules>
 
 

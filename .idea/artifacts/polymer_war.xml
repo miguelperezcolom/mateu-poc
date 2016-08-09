@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="polymer:war">
+    <output-path>$PROJECT_DIR$/polymer/target</output-path>
+    <root id="archive" name="polymer.war">
+      <element id="artifact" artifact-name="polymer:war exploded" />
+    </root>
+  </artifact>
+</component>
